@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "tsc -p .",
-    "start": "node dist/02_unionsAny",
+    "start": "node dist/03_typeNarrowing",
     "dev": "tsc-watch --onSuccess \"npm start\""
   },
   "keywords": [],
